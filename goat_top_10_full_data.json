@@ -17,7 +17,8 @@
     "TAI": 12,
     "LSI": 2,
     "opp_srs": 5.5,
-    "era_bonus": 1
+    "era_bonus": 1,
+    "era_difficulty": 6
   },
   {
     "name": "LeBron James",
@@ -37,7 +38,8 @@
     "TAI": 18,
     "LSI": 5,
     "opp_srs": 4.8,
-    "era_bonus": 0
+    "era_bonus": 0,
+    "era_difficulty": 8
   },
   {
     "name": "Kareem Abdul-Jabbar",
@@ -57,7 +59,8 @@
     "TAI": 16,
     "LSI": 6,
     "opp_srs": 3.5,
-    "era_bonus": 1
+    "era_bonus": 1,
+    "era_difficulty": 5
   },
   {
     "name": "Magic Johnson",
@@ -77,7 +80,8 @@
     "TAI": 13,
     "LSI": 3,
     "opp_srs": 4.3,
-    "era_bonus": 1
+    "era_bonus": 1,
+    "era_difficulty": 5
   },
   {
     "name": "Larry Bird",
@@ -97,7 +101,8 @@
     "TAI": 12,
     "LSI": 3,
     "opp_srs": 4.1,
-    "era_bonus": 1
+    "era_bonus": 1,
+    "era_difficulty": 5
   },
   {
     "name": "Shaquille O'Neal",
@@ -117,7 +122,8 @@
     "TAI": 12,
     "LSI": 3,
     "opp_srs": 4.0,
-    "era_bonus": 0
+    "era_bonus": 0,
+    "era_difficulty": 5
   },
   {
     "name": "Tim Duncan",
@@ -137,7 +143,8 @@
     "TAI": 11,
     "LSI": 3,
     "opp_srs": 4.2,
-    "era_bonus": 1
+    "era_bonus": 1,
+    "era_difficulty": 6
   },
   {
     "name": "Kobe Bryant",
@@ -157,7 +164,8 @@
     "TAI": 14,
     "LSI": 3,
     "opp_srs": 4.4,
-    "era_bonus": 0
+    "era_bonus": 0,
+    "era_difficulty": 8
   },
   {
     "name": "Wilt Chamberlain",
@@ -177,7 +185,8 @@
     "TAI": 10,
     "LSI": 2,
     "opp_srs": 3.9,
-    "era_bonus": 2
+    "era_bonus": 2,
+    "era_difficulty": 3
   },
   {
     "name": "Steph Curry",
@@ -197,6 +206,7 @@
     "TAI": 13,
     "LSI": 3,
     "opp_srs": 4.5,
-    "era_bonus": 0
+    "era_bonus": 0,
+    "era_difficulty": 5
   }
 ]
